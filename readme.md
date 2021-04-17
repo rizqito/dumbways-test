@@ -20,4 +20,4 @@
 
 3. Buatlah sebuah pattern [Link Source Code No.3](https://onlinegdb.com/S1AX7IdIu)
 
-4. 
+4. CRUD (4A & 4B)

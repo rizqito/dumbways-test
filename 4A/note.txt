@@ -1,0 +1,24 @@
+INSERT DATA USER
+----------------
+INSERT INTO users_tb(name,photo) VALUES('Rizqi','foto.jpg');
+
+SELECT DATA USER
+----------------
+SELECT * FROM users_tb;
+
+INSERT DATA SKILL USER
+----------------------
+INSERT INTO skill_tb(name,user_id) VALUES('HTML','1');
+
+SELECT DATA USER & SKILL
+------------------------
+SELECT * FROM users_tb LEFT JOIN skill_tb ON users_tb.id = skill_tb.user_id;
+
+SELECT data user dengan skill tertentu
+-------------------------------------
+SELECT users_tb.id, users_tb.name, users_tb.photo, skill_tb.name AS skill FROM users_tb LEFT JOIN skill_tb ON users_tb.id = skill_tb.user_id WHERE skill_tb.name = 'PHP';
+
+SELECT user dengan skill spesifik
+---------------------------------
+SELECT users_tb.id, users_tb.name, users_tb.photo, skill_tb.name AS skill FROM users_tb LEFT JOIN skill_tb ON users_tb.id = skill_tb.user_id WHERE users_tb.id = '1';
+
