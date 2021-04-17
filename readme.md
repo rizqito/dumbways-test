@@ -14,4 +14,4 @@
 
 ## Soal
 
-1. Buatlah function untuk menghitung jumlah jabat tangan yang terjadi dalam pertemuan yang dihadiri oleh beberapa orang. Jika setiap orang berjabat tangan dengan semua yang hadir dan hanya sekali berjabat tangan tangan dengan orang yang sama! [Link Source Code No.1] (https://www.onlinegdb.com/HkVQJ-uUO)
+1. Buatlah function untuk menghitung jumlah jabat tangan yang terjadi dalam pertemuan yang dihadiri oleh beberapa orang. Jika setiap orang berjabat tangan dengan semua yang hadir dan hanya sekali berjabat tangan tangan dengan orang yang sama! [Link Source Code No.1](https://www.onlinegdb.com/HkVQJ-uUO)
