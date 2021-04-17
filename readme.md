@@ -18,4 +18,6 @@
 
 2. Susun lah array berikut menjadi “DumbWaysdotid” dengan menggunakan metode Bubble sort. [Link Source Code No.2](https://onlinegdb.com/HJN7N7_I_)
 
-3. Buatlah sebuah pattern [Link Source Code No.3]()
+3. Buatlah sebuah pattern [Link Source Code No.3](https://onlinegdb.com/S1AX7IdIu)
+
+4. 
